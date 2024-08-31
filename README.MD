@@ -19,7 +19,7 @@ I am a passionate and dedicated software developer with experience in Cloud, Dev
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Groovy](https://img.shields.io/badge/-Groovy-007ACC?style=flat&logo=Groovy&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-007ACC?style=flat&logo=Terraform&logoColor=blue)
+![Terraform](https://img.shields.io/badge/-Terraform-007ACC?style=flat&logo=Terraform&logoColor=green)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -27,6 +27,8 @@ I am a passionate and dedicated software developer with experience in Cloud, Dev
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-232F3E?style=flat&logo=Jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-232F3E?style=flat&logo=Ansible&logoColor=whie)
+![Terraform](https://img.shields.io/badge/-Terraform-232F3E?style=flat&logo=Terraform&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
