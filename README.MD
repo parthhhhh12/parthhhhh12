@@ -3,17 +3,17 @@
 ## About Me
 
  
-I am a passionate and dedicated software developer with experience in Cloud, DevOps, and front-end development. My goal is to leverage technology to solve real-world problems and create impactful solutions by optimizing cloud infrastructures, automating deployment processes, and developing robust applications.
+I am a passionate and dedicated software developer with experience in Cloud, Big Data and DevOps. My goal is to leverage technology to solve real-world problems and create impactful solutions by optimizing cloud infrastructures, automating deployment processes, and developing robust applications.
 
 
-- 🔭 I’m currently learning Jenkins, Docker, Terraform and Exploring Cloud Services.
+- 🔭 I’m currently learning Apache Spark, Data Warehousing, ELT and ETL Concepts, Big Data Fundamentals, Jenkins, Terraform and Exploring Cloud Services.
 - 🌱 Getting better at: Datastructure & Algorithms.
 - 💬 Ask me about: Java,Javascript,Groovy,AWS,Cloud and DevOps tools.
 - 📫 How to reach me: [My Email](mailto:parthsingh1253@gmail.com)
 
 ## Skills
 
-### Languages
+### Languages 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
