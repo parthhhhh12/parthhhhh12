@@ -15,7 +15,7 @@ I am a passionate and dedicated software developer with experience in Cloud, Big
 
 ### Languages 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/-ApacheSpark-F7DF1E?style=flat&logo=ApacheSpark&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Groovy](https://img.shields.io/badge/-Groovy-007ACC?style=flat&logo=Groovy&logoColor=white)
