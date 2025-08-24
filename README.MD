@@ -14,8 +14,8 @@ I’m constantly exploring new technologies and methodologies to improve systems
 
 
 - 🔭 I’m currently learning Apache Spark, Data Warehousing, ELT and ETL Concepts, Big Data Fundamentals, Jenkins and Exploring Cloud Services.
-- 🌱 Getting better at: Datastructure & Algorithms.
-- 💬 Ask me about: Java, Big-Data, Hadoop, Groovy, AWS, Cloud and Jenkins.
+- 🌱 Getting better at: Data Engineering and Gen AI
+- 💬 Ask me about: Java, Big-Data, Hadoop, PySpark, Groovy, AWS, Azure and Cloud.
 - 📫 How to reach me: [My Email](mailto:parthsingh1253@gmail.com)
 
 ## Skills
@@ -38,6 +38,10 @@ I’m constantly exploring new technologies and methodologies to improve systems
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Cloud-Platforms
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft Azure-007396?style=flat&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-F7DF1E?style=flat&logo=Python&logoColor=black)
 
 
  
