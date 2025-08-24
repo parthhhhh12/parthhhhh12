@@ -40,7 +40,7 @@ I’m constantly exploring new technologies and methodologies to improve systems
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Cloud-Platforms
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft Azure-007396?style=flat&logo=openjdk&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-007396?style=flat&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-F7DF1E?style=flat&logo=Python&logoColor=black)
 
 
