@@ -31,7 +31,7 @@ I’m constantly exploring new technologies and methodologies to improve systems
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-2496ED?style=flat&logo=ApacheSpark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-232F3E?style=flat&logo=Hadoop&logoColor=white)
+![DataBricks](https://img.shields.io/badge/-DataBricks-232F3E?style=flat&logo=DataBricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-232F3E?style=flat&logo=Jenkins&logoColor=white)
  
