@@ -1,4 +1,4 @@
-# <p align='center'>Hi <img src="https://camo.githubusercontent.com/be97db312617523f171eb0fa461349309274abda75e491e51af7df9b8383c82a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" alt="" width="40" height="40"> I'm Parth!!
+# <p align='center'>Hi<img> src="https://camo.githubusercontent.com/be97db312617523f171eb0fa461349309274abda75e491e51af7df9b8383c82a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" alt="" width="40" height="40"> I'm Parth!!
 
 ## About Me
 
@@ -13,7 +13,7 @@ Developing robust, maintainable applications using modern architectures and best
 I’m constantly exploring new technologies and methodologies to improve systems and deliver high-impact solutions at scale. This GitHub is a reflection of my journey, showcasing projects where I apply cloud-native tools, and data engineering workflows.
 
 
-- 🔭 I’m currently learning Apache Spark, Data Warehousing, ELT and ETL Concepts, Big Data Fundamentals, Jenkins and Exploring Cloud Services.
+- 🔭 I’m currently learning Apache Spark, Data Warehousing, ELT and ETL Concepts, Big Data Fundamentals, Jenkins, Terraform and Exploring Cloud Services.
 - 🌱 Getting better at: Data Engineering and Gen AI
 - 💬 Ask me about: Java, Big-Data, Hadoop, PySpark, Groovy, AWS, Azure and Cloud.
 - 📫 How to reach me: [My Email](mailto:parthsingh1253@gmail.com)
@@ -34,6 +34,7 @@ I’m constantly exploring new technologies and methodologies to improve systems
 ![DataBricks](https://img.shields.io/badge/-DataBricks-232F3E?style=flat&logo=DataBricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-F7DF1E?style=flat&logo=Python&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-232F3E?style=flat&logo=Jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-232F3E?style=flat&logo=Terraform&logoColor=black)
  
 
 ### Databases
