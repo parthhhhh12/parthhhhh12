@@ -11,7 +11,7 @@
 I am a **Data Engineering enthusiast** with a strong interest in designing **scalable, data-driven solutions** that enable **real-time insights** and **informed decision-making**.  
 With an academic background in **Cloud Computing**, I focus on utilizing **modern data technologies** to process, manage, and extract value from large datasets.  
 
-🔹 I have hands-on experience with **SQL, Python, and PySpark**, particularly in **data transformation, analysis, and pipeline development**.  
+🔹 I have hands-on experience with **SQL, Python, PySpark and Databricks**, particularly in **data transformation, analysis, and pipeline development**.  
 🔹 My solid understanding of **databases**, combined with strong **problem-solving skills**, allows me to build **efficient and reliable data workflows**.  
 
 My focus areas include:
