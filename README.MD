@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hi there 👋, I'm <span style="color:#00BFFF;">Parth Singh</span>  
+  Hi there 👋, I'm <span style="color:#00BFFF;">Parth </span>  
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" height="40" alt="waving hand"/>
 </h1>
 
