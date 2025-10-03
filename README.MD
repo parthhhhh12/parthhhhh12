@@ -1,4 +1,4 @@
-<!-- Profile README for Parth Singh -->
+<!-- Profile README for Parth  -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there+👋,+I'm+Parth!;Data+Engineering+Enthusiast;Cloud+%7C+Big+Data+%7C+AI+Explorer" alt="Typing SVG" />
@@ -86,14 +86,6 @@ Automates **data ingestion, transformation, and storage** in an analytics-ready 
 </p>
 
 ---
-
-## 🏅 Trophies & Visitors
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthhhhh12&theme=tokyonight&row=1&column=6"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=parthhhhh12&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
