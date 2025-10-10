@@ -1,8 +1,9 @@
 <!-- Profile README for Parth  -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there+👋,+I'm+Parth!;Data+Engineering+Enthusiast;Cloud+%7C+Big+Data+%7C+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there+👋,+I'm+Parth!;Associate+Data+Engineer;Cloud+%7C+Big+Data+%7C+AI+Explorer" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="50" height="50" alt="waving hand"/>
