@@ -14,23 +14,24 @@
 I am an **Associate Data Engineer** passionate about designing **scalable, data-driven solutions** that empower **real-time insights** and **data-informed decision-making**. I enjoy working with **cloud technologies**, **big data platforms**, and **ETL pipelines** to transform raw data into actionable intelligence.
 
 
-💡 **What I love doing :**  
-- ⚡ Optimizing **cloud infrastructures** for performance & cost-efficiency  
-- ⚙️ Automating **CI/CD pipelines** to streamline delivery  
-- 🏗️ Building **robust & maintainable applications** with modern architectures  
-- 🔍 Exploring **cutting-edge technologies** for high-impact solutions  
+ 💡 **What I love doing :**  
+- ⚡ Designing and optimizing **data pipelines** for performance and scalability  
+- ☁️ Building and managing **cloud-based data infrastructures** for efficiency  
+- ⚙️ Automating **data workflows** and **CI/CD pipelines** for seamless deployment  
+- 📊 Exploring **Big Data**, **Cloud**, and **AI** tools to unlock deeper insights  
+
 
 ---
 
 ## 🌱 Currently Exploring
 - **Big Data Ecosystem** → Apache Spark, Data Warehousing, ETL/ELT  
-- **DevOps Tools** → Jenkins, Terraform  
+- **DevOps Tools** → Jenkins, Terraform, Azure DevOps 
 - **Cloud & AI** → AWS, Azure, Generative AI  
 
 ---
 
 ## 💬 Ask Me About
-- Java | Big Data | Hadoop | PySpark | Groovy | AWS | Azure | Cloud Computing  
+- Java | Big Data | GenAI | PySpark | Groovy | AWS | Azure | Cloud Computing  
 
 📫 Reach me at: [**parthsingh1253@gmail.com**](mailto:parthsingh1253@gmail.com)  
 
