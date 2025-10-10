@@ -10,9 +10,9 @@
 </p>
 
 ---
-
 ## 🚀 About Me
-I am a **Data Engineer** passionate about designing **scalable, data-driven solutions** that enable **real-time insights** and **informed decision-making**.  
+I am an **Associate Data Engineer** passionate about designing **scalable, data-driven solutions** that empower **real-time insights** and **data-informed decision-making**. I enjoy working with **cloud technologies**, **big data platforms**, and **ETL pipelines** to transform raw data into actionable intelligence.
+
 
 💡 **What I love doing :**  
 - ⚡ Optimizing **cloud infrastructures** for performance & cost-efficiency  
