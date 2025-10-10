@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-I am a **Data Engineering Enthusiast** passionate about designing **scalable, data-driven solutions** that enable **real-time insights** and **informed decision-making**.  
+I am a **Data Engineer** passionate about designing **scalable, data-driven solutions** that enable **real-time insights** and **informed decision-making**.  
 
 💡 **What I love doing :**  
 - ⚡ Optimizing **cloud infrastructures** for performance & cost-efficiency  
