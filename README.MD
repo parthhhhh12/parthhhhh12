@@ -4,28 +4,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there+👋,+I'm+Parth!;Associate+Data+Engineer;Cloud+%7C+Big+Data+%7C+AI+Explorer" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="50" height="50" alt="waving hand"/>
 </p>
 
 ---
+
 ## 🚀 About Me
 I am an **Associate Data Engineer** passionate about designing **scalable, data-driven solutions** that empower **real-time insights** and **data-informed decision-making**. I enjoy working with **cloud technologies**, **big data platforms**, and **ETL pipelines** to transform raw data into actionable intelligence.
 
-
- 💡 **What I love doing :**  
+💡 **What I love doing :**  
 - ⚡ Designing and optimizing **data pipelines** for performance and scalability  
 - ☁️ Building and managing **cloud-based data infrastructures** for efficiency  
 - ⚙️ Automating **data workflows** and **CI/CD pipelines** for seamless deployment  
 - 📊 Exploring **Big Data**, **Cloud**, and **AI** tools to unlock deeper insights  
 
-
 ---
 
 ## 🌱 Currently Exploring
 - **Big Data Ecosystem** → Apache Spark, Data Warehousing, ETL/ELT  
-- **DevOps Tools** → Jenkins, Terraform, Azure DevOps 
+- **DevOps Tools** → Jenkins, Terraform, Azure DevOps  
 - **Cloud & AI** → AWS, Azure, Generative AI  
 
 ---
@@ -88,10 +86,12 @@ Automates **data ingestion, transformation, and storage** in an analytics-ready 
 </p>
 
 ---
----
 
 ## 🌐 Connect With Me
 <p align="center">
+  <a href="https://parth-12-05-03.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://github.com/parthhhhh12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -105,6 +105,6 @@ Automates **data ingestion, transformation, and storage** in an analytics-ready 
 
 ---
 
-✨ _“Transforming data into insights, one pipeline at a time.”_ ✨  
+✨ _“Transforming data into insights, one pipeline at a time.”_ ✨
 
 
