@@ -37,9 +37,15 @@ I am an **Associate Data Engineer** passionate about designing **scalable, data-
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,aws,azure,mysql,jenkins,terraform&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,aws,azure,mysql,jenkins,terraform,docker,bash,linux&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=spark,databricks&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-EE7C00?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-E34F26?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
@@ -85,6 +91,11 @@ Automates **data ingestion, transformation, and storage** in an analytics-ready 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthhhhh12&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhhhh12&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&theme=tokyo-night" height="200px"/>
+</p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -106,5 +117,6 @@ Automates **data ingestion, transformation, and storage** in an analytics-ready 
 ---
 
 ✨ _“Transforming data into insights, one pipeline at a time.”_ ✨
+
 
 
