@@ -22,7 +22,7 @@ I am an **Associate Data Engineer** passionate about designing **scalable, data-
 ---
 
 ## 🌱 Currently Exploring
-- **Big Data Ecosystem** → Apache Spark, Data Warehousing, ETL/ELT  
+- **Big Data Ecosystem** → Apache Spark, Data Warehousing, ETL/ELT, Snowflake, DBT 
 - **DevOps Tools** → Jenkins, Terraform, Azure DevOps  
 - **Cloud & AI** → AWS, Azure, Generative AI  
 
