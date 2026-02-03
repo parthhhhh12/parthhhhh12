@@ -1,4 +1,4 @@
- <!-- Profile README for Parth  -->
+<!-- Profile README for Parth  -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there+👋,+I'm+Parth!;Associate+Data+Engineer;Cloud+%7C+Big+Data+%7C+AI+Explorer" alt="Typing SVG" />
@@ -54,7 +54,7 @@ I am an **Associate Data Engineer** passionate about designing **scalable, data-
     <img src="https://img.shields.io/badge/SQL%20Basic-107C41?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://credentials.databricks.com/80290364-9760-4912-80bb-628ecb05f2d6#acc.1QyUwPgn" target="_blank">
-    <img src="https://img.shields.io/badge/Databricks%20Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   </a>
 </p>
 
@@ -111,4 +111,5 @@ Automates **data ingestion, transformation, and storage** in an analytics-ready 
 ---
 
 ✨ _“Transforming data into insights, one pipeline at a time.”_ ✨
+
 
