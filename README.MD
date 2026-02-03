@@ -114,15 +114,29 @@ I specialize in **batch data processing**, **ETL/ELT pipelines**, and **big data
   - Trip distribution patterns
 
 ---
+ ## 📈 GitHub Analytics & Activity Insights
 
-## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&theme=tokyonight" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&theme=tokyonight" height="170px"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthhhhh12&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthhhhh12&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthhhhh12&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthhhhh12&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthhhhh12&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
