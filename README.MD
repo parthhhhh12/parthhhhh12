@@ -44,6 +44,9 @@ I am an **Associate Data Engineer** passionate about designing **scalable, data-
 
 ## 🏆 Certifications
 <p align="center">
+ <a href="https://credentials.databricks.com/80290364-9760-4912-80bb-628ecb05f2d6#acc.1QyUwPgn" target="_blank">
+    <img src="https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  </a>
   <a href="https://www.hackerrank.com/certificates/731721820af3" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20Advance-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
@@ -52,9 +55,6 @@ I am an **Associate Data Engineer** passionate about designing **scalable, data-
   </a>
   <a href="https://www.hackerrank.com/certificates/f507e955aa98" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20Basic-107C41?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://credentials.databricks.com/80290364-9760-4912-80bb-628ecb05f2d6#acc.1QyUwPgn" target="_blank">
-    <img src="https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   </a>
 </p>
 
