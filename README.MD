@@ -1,7 +1,7 @@
 <!-- Profile README for Parth  -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Parth+Singh;Associate+Data+Engineer; Cloud+%7C+Big+Data+%7C+Data+Platforms+%7C+GenAI+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Parth+Singh;Associate+Data+Engineer;Cloud+%7C+Big+Data+%7C+Data+Platforms+%7C+GenAI+Explorer" />
 </h1>
 
 <p align="center">
