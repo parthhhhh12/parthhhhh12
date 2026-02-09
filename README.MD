@@ -1,4 +1,4 @@
- <!-- Profile README for Parth  -->
+<!-- Profile README for Parth  -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there+👋,+I'm+Parth!;Associate+Data+Engineer;Cloud+%7C+Big+Data+%7C+AI+Explorer" alt="Typing SVG" />
@@ -22,7 +22,7 @@ I am an **Associate Data Engineer** passionate about designing **scalable, data-
 ---
 
 ## 🌱 Currently Exploring
-- **Big Data Ecosystem** → Apache Spark, Data Warehousing, ETL/ELT, Snowflake, DBT  
+- **Big Data Ecosystem** → Apache Spark, Data Warehousing, ETL/ELT, Snowflake, dbt  
 - **DevOps Tools** → Jenkins, Terraform, Azure DevOps  
 - **Cloud & AI** → AWS, Azure, Generative AI  
 
@@ -62,21 +62,30 @@ I am an **Associate Data Engineer** passionate about designing **scalable, data-
 
 ## 📂 Projects
 
-### 🚖 [Batch ETL Pipeline Project](https://github.com/parthhhhh12/Batch_ETL_Pipeline_Project.git)  
+### 🏗️ End-to-End Data Engineering Project – dbt, Snowflake & Azure Synapse
+🔗 https://github.com/parthhhhh12/-end-to-end-data-engineering-azure-synapse-snowflake.git  
+
+> A complete **modern data stack implementation** using **Snowflake, dbt, and Azure Synapse**.  
+Designed scalable **ELT pipelines** following data engineering best practices.
+
+⚙️ **Key Highlights:**  
+- **Snowflake** as the cloud data warehouse  
+- **dbt** for modular transformations, testing, and documentation  
+- **Azure Synapse** for analytics and optimized query performance  
+- Analytics-ready data models for **business metrics, trend analysis, and reporting**  
+
+---
+
+### 🚖 Batch ETL Pipeline Project
+🔗 https://github.com/parthhhhh12/Batch_ETL_Pipeline_Project.git  
+
 > A batch ETL pipeline using **PySpark in Azure Databricks**.  
 Processes **NYC Taxi Trip dataset** from raw CSV to cleaned, structured, and aggregated datasets.  
-✅ Output stored in **Parquet format** in Azure Blob Storage for analytics.  
+✅ Output stored in **Parquet format** in **Azure Blob Storage** for analytics.
 
 ---
 
-### 🏙️ [ADF Data Engineering Pipeline](https://github.com/parthhhhh12/ADF_Pipeline_Data_Project.git)  
-> An end-to-end **data engineering pipeline** using **Azure Data Factory (ADF), Databricks, and ADLS**.  
-Automates **data ingestion, transformation, and storage** in an analytics-ready format.  
-📊 Derived insights: **vendor performance, payment trends, trip distribution**.  
-
----
-
- ## 📈 GitHub Analytics & Activity Insights
+## 📈 GitHub Analytics & Activity Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170px"/>
@@ -117,3 +126,5 @@ Automates **data ingestion, transformation, and storage** in an analytics-ready 
 ---
 
 ✨ _“Transforming data into insights, one pipeline at a time.”_ ✨
+
+
