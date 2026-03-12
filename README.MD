@@ -56,7 +56,7 @@ I am also actively exploring how **Machine Learning and Deep Learning** can be i
   </a>
 
  <a href="https://credentials.databricks.com/e77bcf6d-f559-47e7-beca-608373a5660b#acc.mVhSLHf9" target="_blank">
-    <img src="https://img.shields.io/badge/Databricks%20Lakehouse%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Databricks%20Certified%20Generative AI Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   </a>
 
   <a href="https://www.hackerrank.com/certificates/731721820af3" target="_blank">
