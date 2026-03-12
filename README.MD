@@ -13,23 +13,29 @@
 ## 🚀 About Me
 I am an **Associate Data Engineer** passionate about designing **scalable, data-driven solutions** that empower **real-time insights** and **data-informed decision-making**. I enjoy working with **cloud technologies**, **big data platforms**, and **ETL pipelines** to transform raw data into actionable intelligence.
 
+I am also actively exploring how **Machine Learning and Deep Learning** can be integrated into **modern data engineering workflows**, enabling intelligent data platforms and AI-powered analytics.
+
 💡 **What I love doing :**  
 - ⚡ Designing and optimizing **data pipelines** for performance and scalability  
 - ☁️ Building and managing **cloud-based data infrastructures** for efficiency  
 - ⚙️ Automating **data workflows** and **CI/CD pipelines** for seamless deployment  
-- 📊 Exploring **Big Data**, **Cloud**, and **AI** tools to unlock deeper insights  
+- 📊 Exploring **Big Data, Machine Learning, and AI tools** to unlock deeper insights  
+- 🤖 Experimenting with **ML and Deep Learning integration within data platforms**
 
 ---
 
 ## 🌱 Currently Exploring
 - **Big Data Ecosystem** → Apache Spark, Data Warehousing, ETL/ELT, Snowflake, dbt  
+- **Machine Learning Fundamentals** → Model workflows, feature engineering, training pipelines  
+- **AI & Deep Learning** → Understanding how ML/DL models integrate with data pipelines  
 - **DevOps Tools** → Jenkins, Terraform, Azure DevOps  
-- **Cloud & AI** → AWS, Azure, Generative AI  
+- **Cloud Platforms** → AWS, Azure  
+- **Modern Data + AI Architecture** → Data Engineering + ML workflows
 
 ---
 
 ## 💬 Ask Me About
-- Java | Big Data | GenAI | PySpark | Groovy | AWS | Azure | Cloud Computing  
+- Java | Big Data | GenAI | PySpark | Machine Learning | Groovy | AWS | Azure | Cloud Computing  
 
 📫 Reach me at: [**parthsingh1253@gmail.com**](mailto:parthsingh1253@gmail.com)  
 
@@ -44,18 +50,19 @@ I am an **Associate Data Engineer** passionate about designing **scalable, data-
 
 ## 🏆 Certifications
 <p align="center">
+
  <a href="https://credentials.databricks.com/80290364-9760-4912-80bb-628ecb05f2d6#acc.1QyUwPgn" target="_blank">
     <img src="https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   </a>
+
+ <a href="https://credentials.databricks.com/e77bcf6d-f559-47e7-beca-608373a5660b#acc.mVhSLHf9" target="_blank">
+    <img src="https://img.shields.io/badge/Databricks%20Lakehouse%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  </a>
+
   <a href="https://www.hackerrank.com/certificates/731721820af3" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Advance-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Advanced-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/certificates/6f58d3da3e47" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Intermediate-1BA94C?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/certificates/f507e955aa98" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Basic-107C41?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+
 </p>
 
 ---
@@ -126,5 +133,4 @@ Processes **NYC Taxi Trip dataset** from raw CSV to cleaned, structured, and agg
 ---
 
 ✨ _“Transforming data into insights, one pipeline at a time.”_ ✨
-
 
