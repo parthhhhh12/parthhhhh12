@@ -13,7 +13,7 @@
 ## 🚀 About Me
 I am an **Associate Data Engineer** passionate about designing **scalable, data-driven solutions** that empower **real-time insights** and **data-informed decision-making**. I enjoy working with **cloud technologies**, **big data platforms**, and **ETL pipelines** to transform raw data into actionable intelligence.
 
-I am also actively exploring how **Machine Learning and Deep Learning** can be integrated into **modern data engineering workflows**, enabling intelligent data platforms and AI-powered analytics.
+I am also actively exploring how **Machine Learning and Generative AI** can be integrated into **modern data engineering workflows**, enabling intelligent data platforms and AI-powered analytics.
 
 💡 **What I love doing :**  
 - ⚡ Designing and optimizing **data pipelines** for performance and scalability  
