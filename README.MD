@@ -28,7 +28,7 @@ I am also actively exploring how **Machine Learning and Generative AI** can be i
 - **Big Data Ecosystem** → Apache Spark, Data Warehousing, ETL/ELT, Snowflake, dbt  
 - **Machine Learning Fundamentals** → Model workflows, feature engineering, training pipelines  
 - **AI & Deep Learning** → Understanding how ML/DL models integrate with data pipelines  
-- **DevOps Tools** → Jenkins, Terraform, Docker, Azure DevOps  
+- **DevOps Tools** → Kubernetes, Jenkins, Terraform, Docker 
 - **Cloud Platforms** → AWS, Azure  
 - **Modern Data + AI Architecture** → Data Engineering + ML workflows
 
