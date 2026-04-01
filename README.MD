@@ -20,7 +20,7 @@ I am also actively exploring how **Machine Learning and Generative AI** can be i
 - ☁️ Building and managing **cloud-based data infrastructures** for efficiency  
 - ⚙️ Automating **data workflows** and **CI/CD pipelines** for seamless deployment  
 - 📊 Exploring **Big Data, Machine Learning, and AI tools** to unlock deeper insights  
-- 🤖 Experimenting with **ML and Deep Learning integration within data platforms**
+- 🤖 Experimenting with **ML and MLOps integration within data platforms**
 
 ---
 
@@ -35,7 +35,7 @@ I am also actively exploring how **Machine Learning and Generative AI** can be i
 ---
 
 ## 💬 Ask Me About
-- Java | Big Data | GenAI | PySpark | Machine Learning | Groovy | AWS | Azure | Cloud Computing  
+- Python | Big Data | GenAI | PySpark | Machine Learning | DevOps | AWS | Azure | Cloud Computing  
 
 📫 Reach me at: [**parthsingh1253@gmail.com**](mailto:parthsingh1253@gmail.com)  
 
@@ -43,7 +43,7 @@ I am also actively exploring how **Machine Learning and Generative AI** can be i
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,aws,azure,mysql,jenkins,terraform,docker,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,aws,azure,mysql,jenkins,terraform,docker,kubernetes,linux&theme=dark" />
 </p>
 
 ---
