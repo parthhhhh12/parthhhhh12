@@ -40,10 +40,21 @@ I am also actively exploring how **Machine Learning and Generative AI** can be i
 📫 Reach me at: [**parthsingh1253@gmail.com**](mailto:parthsingh1253@gmail.com)  
 
 ---
+
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,snowflake,spark,dbt,aws,azure,docker,kubernetes,terraform,jenkins,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,snowflake,spark,dbt&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" />
+</p>
+
 ---
 
 ## 🏆 Certifications
