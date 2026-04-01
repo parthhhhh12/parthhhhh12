@@ -44,19 +44,11 @@ I am also actively exploring how **Machine Learning and Generative AI** can be i
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,mysql,snowflake&perline=4&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,mysql,snowflake,spark,dbtlabs,databricks,aws&perline=8&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=spark,dbtlabs,databricks,aws&perline=4&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,docker,kubernetes,terraform&perline=4&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins,linux,git,github&perline=4&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,docker,kubernetes,terraform,jenkins,linux,git,github&perline=8&theme=dark" />
 </p>
 
 ---
