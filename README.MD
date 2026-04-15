@@ -24,7 +24,6 @@ The goal? Build **end-to-end Data & AI pipelines** — from ingestion to intelli
 
 ## 🧠 What I'm Building Towards
 
-
 Raw Data  ──►  ETL/ELT Pipeline  ──►  Feature Store / Data Warehouse
 │
 ┌──────────▼──────────┐
