@@ -1,7 +1,7 @@
 <!-- Profile README for Parth -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=600&lines=Hi+there+👋,+I'm+Parth!;Data+%26+AI+Engineer+in+the+Making;Cloud+%7C+Big+Data+%7C+GenAI+Explorer;Building+End-to-End+Data+%26+AI+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=600&lines=Hi+there+👋,+I'm+Parth!;Data+%26+AI+Engineer;Cloud+%7C+Big+Data+%7C+GenAI+Explorer;Building+End-to-End+Data+%26+AI+Pipelines" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am a ** Data Engineer** on a mission to become a **Data & AI Engineer** — someone who bridges the full spectrum from **raw data ingestion** to **intelligent AI-powered applications**.
+I am an **Associate Data Engineer** passionate about becoming a **Data & AI Engineer** — someone who bridges the full spectrum from **raw data ingestion** to **intelligent AI-powered applications**.
 
 I'm passionate about designing **scalable, production-grade pipelines** that don't just move data — they power **real-time insights**, **ML models**, and **AI agents**. My journey is about **merging disciplines** that are traditionally siloed:
 
@@ -24,18 +24,18 @@ The goal? Build **end-to-end Data & AI pipelines** — from ingestion to intelli
 
 ## 🧠 What I'm Building Towards
 
-Raw Data  ──►  ETL/ELT Pipeline  ──►  Feature Store / Data Warehouse
-│
-┌──────────▼──────────┐
-│   ML / MLOps Layer  │
-└──────────┬──────────┘
-│
-┌──────────▼──────────────────────┐
-│  GenAI Layer: LLMs + RAG +      │
-│  Vector DBs + AI Agents         │
-└──────────┬──────────────────────┘
-│
-Intelligent App / API
+<p align="center">
+
+| Layer | Technologies |
+|-------|-------------|
+| 📥 **Ingestion** | Kafka · REST APIs · Batch / Streaming |
+| 🔄 **ETL / ELT** | PySpark · dbt · Azure Data Factory |
+| 🏛️ **Storage** | Snowflake · Azure Synapse · Data Lake |
+| 🤖 **ML / MLOps** | Scikit-learn · MLflow · Feature Store |
+| 🧠 **GenAI Layer** | LLMs · LangChain · RAG · Vector DBs · AI Agents |
+| 🚀 **Output** | Intelligent APIs · Dashboards · AI Applications |
+
+</p>
 
 ---
 
@@ -60,8 +60,8 @@ Intelligent App / API
 → Model workflows · Feature engineering · Training pipelines · MLflow · Model deployment
 
 ### 🧠 Generative AI & LLM Stack
-→ **LLMs** (OpenAI, Mistral, Llama) · **LangChain** · **RAG (Retrieval-Augmented Generation)**
-→ **Vector Databases** (Pinecone, ChromaDB, Weaviate) · **AI Agents** · **Prompt Engineering**
+→ **LLMs** (OpenAI, Mistral, Llama) · **LangChain** · **RAG (Retrieval-Augmented Generation)**  
+→ **Vector Databases** (Pinecone, ChromaDB, Weaviate) · **AI Agents** · **Prompt Engineering**  
 → Embedding pipelines · Semantic search · LLM integration with data platforms
 
 ### ☁️ Cloud & DevOps
@@ -74,7 +74,7 @@ Intelligent App / API
 
 ## 💬 Ask Me About
 
-`Python` · `PySpark` · `Big Data` · `LangChain` · `RAG` · `Vector DBs` · `LLMs` · `GenAI`
+`Python` · `PySpark` · `Big Data` · `LangChain` · `RAG` · `Vector DBs` · `LLMs` · `GenAI`  
 `Machine Learning` · `MLOps` · `AWS` · `Azure` · `Databricks` · `Snowflake` · `dbt` · `DevOps`
 
 📫 Reach me at: [**parthsingh1253@gmail.com**](mailto:parthsingh1253@gmail.com)
@@ -128,8 +128,8 @@ Intelligent App / API
 ### 🏗️ End-to-End Data Engineering – dbt, Snowflake & Azure Synapse
 🔗 [GitHub Repo](https://github.com/parthhhhh12/-end-to-end-data-engineering-azure-synapse-snowflake.git)
 
-> A complete **modern data stack implementation** using **Snowflake, dbt, and Azure Synapse**.
-Designed scalable **ELT pipelines** following data engineering best practices.
+> A complete **modern data stack implementation** using **Snowflake, dbt, and Azure Synapse**.  
+> Designed scalable **ELT pipelines** following data engineering best practices.
 
 ⚙️ **Key Highlights:**
 - **Snowflake** as the cloud data warehouse
@@ -142,9 +142,15 @@ Designed scalable **ELT pipelines** following data engineering best practices.
 ### 🚖 Batch ETL Pipeline – PySpark on Azure Databricks
 🔗 [GitHub Repo](https://github.com/parthhhhh12/Batch_ETL_Pipeline_Project.git)
 
-> A batch ETL pipeline using **PySpark in Azure Databricks**.
-Processes **NYC Taxi Trip dataset** from raw CSV to cleaned, structured, and aggregated datasets.
-✅ Output stored in **Parquet format** in **Azure Blob Storage** for analytics.
+> A batch ETL pipeline using **PySpark in Azure Databricks**.  
+> Processes **NYC Taxi Trip dataset** from raw CSV to cleaned, structured, and aggregated datasets.  
+> ✅ Output stored in **Parquet format** in **Azure Blob Storage** for analytics.
+
+---
+
+### 🔜 Coming Soon: RAG Pipeline + AI Agent Project
+> Building an **end-to-end Retrieval-Augmented Generation (RAG) pipeline** using **LangChain + Vector DB + LLM**,  
+> integrated with a data engineering backend — showcasing the full **Data & AI Engineer** stack.
 
 ---
 
@@ -190,4 +196,3 @@ Processes **NYC Taxi Trip dataset** from raw CSV to cleaned, structured, and agg
 ---
 
 ✨ _"Not just moving data — making it intelligent."_ ✨
-
