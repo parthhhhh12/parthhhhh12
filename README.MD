@@ -148,12 +148,6 @@ The goal? Build **end-to-end Data & AI pipelines** — from ingestion to intelli
 
 ---
 
-### 🔜 Coming Soon: RAG Pipeline + AI Agent Project
-> Building an **end-to-end Retrieval-Augmented Generation (RAG) pipeline** using **LangChain + Vector DB + LLM**,  
-> integrated with a data engineering backend — showcasing the full **Data & AI Engineer** stack.
-
----
-
 ## 📈 GitHub Analytics & Activity
 
 <p align="center">
