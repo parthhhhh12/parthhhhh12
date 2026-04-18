@@ -135,10 +135,13 @@ The goal? Build **end-to-end Data & AI pipelines** — from raw ingestion to int
 > Processes **NYC Taxi Trip dataset** from raw CSV to cleaned, structured, and aggregated datasets.
 > ✅ Output stored in **Parquet format** in **Azure Blob Storage** for analytics.
 
----
 
-### 🔜 Coming Soon: RAG Pipeline + AI Agent
-> Building an **end-to-end RAG pipeline** using **LangChain + Vector DB + LLM** with **tool calling, memory, and ReAct agent architecture** — integrated with a data engineering backend.
+⚙️ **Key Highlights:**
+
+- Built a **scalable batch ETL pipeline** using Apache Spark (PySpark) on Azure Databricks.  
+- Processed **NYC Taxi dataset** from raw CSV → cleaned → aggregated layers.  
+- Implemented **data cleaning, validation, and transformation** for reliable outputs.  
+- Stored optimized data in **Parquet format** on Azure Blob Storage.  
 
 ---
 
