@@ -101,12 +101,12 @@ The goal? Build **end-to-end Data & AI pipelines** — from raw ingestion to int
 
 ## 🏆 Certifications
 
-<p align="center">
-  <a href="https://credentials.databricks.com/80290364-9760-4912-80bb-628ecb05f2d6#acc.1QyUwPgn" target="_blank">
-    <img src="https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  </a>
+ <p align="center">
   <a href="https://credentials.databricks.com/e77bcf6d-f559-47e7-beca-608373a5660b#acc.mVhSLHf9" target="_blank">
     <img src="https://img.shields.io/badge/Databricks%20Certified%20Generative%20AI%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  </a>
+  <a href="https://credentials.databricks.com/80290364-9760-4912-80bb-628ecb05f2d6#acc.1QyUwPgn" target="_blank">
+    <img src="https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/certificates/731721820af3" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20Advanced-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
