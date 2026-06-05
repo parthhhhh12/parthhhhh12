@@ -64,7 +64,7 @@ The goal? Build **end-to-end Data & AI pipelines** — from raw ingestion to int
 ## 💬 Ask Me About
 
 `Python` · `PySpark` · `Big Data` · `RAG` · `Vector DBs` · `LLMs` · `GenAI`
-· `ReAct` · `Machine Learning` · `MLOps` · `AWS` · `Azure` · `Databricks` · `Snowflake` · `dbt` · `Cloud & DevOps`
+ · `Machine Learning` · `MLOps` · `AWS` · `Azure` · `Databricks` · `Snowflake` · `dbt` · `Cloud & DevOps`
 
 📫 Reach me at: [**parthsingh1253@gmail.com**](mailto:parthsingh1253@gmail.com)
 
