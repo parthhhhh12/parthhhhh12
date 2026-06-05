@@ -92,8 +92,6 @@ The goal? Build **end-to-end Data & AI pipelines** — from raw ingestion to int
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-00BFFF?style=for-the-badge&logo=probot&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF9A00?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 </p>
 
