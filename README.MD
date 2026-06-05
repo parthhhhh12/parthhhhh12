@@ -54,7 +54,6 @@ The goal? Build **end-to-end Data & AI pipelines** — from raw ingestion to int
 | 🛠️ **Tool Calling** | Tool binding & function calling with LLMs |
 | 🕵️ **AI Agents** | Building ReAct Agents with LangChain |
 | 🧠 **Memory in Agents** | Conversational memory for context-aware agents |
-| ✅ **Pydantic** | Schema validation for structured LLM outputs |
 
 ### ☁️ Cloud & DevOps
 → AWS · Azure · Docker · Kubernetes · Terraform · Jenkins · Linux · Git
