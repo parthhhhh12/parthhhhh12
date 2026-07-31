@@ -73,6 +73,7 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 | Jenkins | 🟩🟩🟩⬜ Intermediate |
 | Git / GitHub | 🟩🟩🟩⬜ Intermediate |
 | GitLab | 🟩🟩🟩⬜ Intermediate |
+| Linux | 🟩🟩⬜⬜ Intermediate |
 | Kubernetes | 🟩🟩⬜⬜ Learning |
 
 **ML / MLOps**
