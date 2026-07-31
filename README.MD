@@ -1,4 +1,4 @@
-<!-- Profile README for Parth -->
+ <!-- Profile README for Parth -->
 
 <h1 align="center">
   <img
@@ -14,18 +14,17 @@
 <p align="center">
   <a href="https://parth-12-05-03.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/singh05e/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:parthsingh1253@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Data and AI Engineer / DataOps Engineer** with hands-on experience building **scalable data pipelines** and integrating **machine learning / MLOps** practices into data workflows, working with **Azure Synapse, Snowflake, dbt, and Apache Airflow**.
+I'm currently a **Data Engineer at Nagarro**. I'm a **Data and AI Engineer / DataOps Engineer** with hands-on experience building **scalable data pipelines** and integrating **machine learning / MLOps** practices into data workflows, working with **Azure Synapse, Snowflake, dbt, and Apache Airflow**.
 
-I'm skilled across the modern data stack and cloud platforms, with growing expertise in **Generative AI and Agentic AI** — RAG, Vector Databases, and AI Agents. I care about clean data layers, schema enforcement, and analytics-ready outputs.
+I'm skilled across the modern data stack and cloud platforms, with growing expertise in **Generative AI** — RAG, Vector Databases, and LLM workflows. I care about clean data layers, schema enforcement, and analytics-ready outputs.
 
-> ☁️ Cloud + ⚙️ DevOps + 📦 Data Engineering + 🤖 ML/MLOps + 🧠 LLMs + 🔍 RAG + 🗄️ Vector DBs + 🕵️ AI Agents + 🔗 LangChain
+> ☁️ Cloud + ⚙️ DevOps + 📦 Data Engineering + 🤖 ML/MLOps + 🧠 LLMs + 🔍 RAG + 🗄️ Vector DBs
 
 **The goal:** build end-to-end Data & AI pipelines — from raw ingestion to intelligent, model-ready output.
 
