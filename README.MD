@@ -2,18 +2,13 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&lines=Hi+there+👋,+I'm+Parth!;AI+Data+Engineer+%40+Nagarro;Cloud+%7C+Big+Data+%7C+GenAI+Explorer;Building+End-to-End+Data+%26+AI+Pipelines"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&lines=Hi+there+👋,+I'm+Parth!;Data+and+AI+Engineer;DataOps+Engineer;Cloud+%7C+Big+Data+%7C+GenAI+Explorer;Building+End-to-End+Data+%26+AI+Pipelines"
     alt="Typing SVG"
   />
 </h1>
 
 <p align="center">
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="50" height="50" alt="waving hand"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN__TO__OPPORTUNITIES-3DDC84?style=for-the-badge&labelColor=0b1210"/>
-  <img src="https://img.shields.io/badge/CURRENTLY-Data%20Engineer%20%40%20Nagarro-5eb1ef?style=for-the-badge&labelColor=0b1210"/>
 </p>
 
 <p align="center">
@@ -26,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm a **Data and AI Engineer** with hands-on experience building **scalable data pipelines** and integrating **machine learning / MLOps** practices into data workflows. Currently a **Data Engineer at Nagarro**, working with **Azure Synapse, Snowflake, dbt, and Apache Airflow**.
+I'm a **Data and AI Engineer / DataOps Engineer** with hands-on experience building **scalable data pipelines** and integrating **machine learning / MLOps** practices into data workflows, working with **Azure Synapse, Snowflake, dbt, and Apache Airflow**.
 
 I'm skilled across the modern data stack and cloud platforms, with growing expertise in **Generative AI and Agentic AI** — RAG, Vector Databases, and AI Agents. I care about clean data layers, schema enforcement, and analytics-ready outputs.
 
@@ -44,41 +39,11 @@ I'm skilled across the modern data stack and cloud platforms, with growing exper
 
 ---
 
-## 💼 Experience
-
-**Data Engineer** · Nagarro — Gurugram · `Jul 2025 – Present` 🟢 *Active*
-- Designed and developed scalable data pipelines using Azure Synapse and Snowflake, enabling efficient ingestion and transformation of large-scale structured data
-- Implemented dbt-based transformation layers for staging and marts, ensuring modular, testable, analytics-ready data models with strong data quality checks
-- `Azure Synapse` `Snowflake` `dbt` `Apache Airflow` `SQL`
-
-**Cloud and DevOps Intern** · Canara HSBC Life Insurance Company — Gurugram · `Jul 2024 – Aug 2024`
-- Built and automated CI/CD pipelines using Jenkins and Docker, streamlining deployments and environment setup
-- Managed AWS cloud services (EC2, S3) for infrastructure and storage, improving scalability, reliability, and operational efficiency
-- `Jenkins` `Docker` `AWS EC2` `AWS S3` `VPC`
-
----
-
 ## 🎓 Education
 
 **B.Tech in Computer Science Engineering**
 University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud Computing and DevOps*
 `Aug 2021 – Jun 2025` · Grade: **A**
-
----
-
-## 🧠 GenAI & LLM Stack
-
-| Topic | What I Learned |
-|-------|---------------|
-| 🤖 **LLMs** | How LLMs work, token generation, OpenAI & Gemini APIs |
-| 🗄️ **Vector DB & Stores** | Embeddings, similarity search, vector storage |
-| 🔍 **RAG Pipelines** | Complete end-to-end RAG solution + RAG Agent |
-| ✂️ **Semantic Chunking** | Intelligent document splitting for better retrieval |
-| 🧩 **Prompt Engineering** | Prompt design, templates & chains with LangChain |
-| ⚛️ **ReAct Architecture** | Reasoning + Acting loop for intelligent agents |
-| 🛠️ **Tool Calling** | Tool binding & function calling with LLMs |
-| 🕵️ **AI Agents** | Building ReAct Agents with LangChain |
-| 🧠 **Memory in Agents** | Conversational memory for context-aware agents |
 
 ---
 
