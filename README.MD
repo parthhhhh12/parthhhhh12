@@ -74,8 +74,6 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 | Git / GitHub | 🟩🟩🟩⬜ Intermediate |
 | GitLab | 🟩🟩🟩⬜ Intermediate |
 | Kubernetes | 🟩🟩⬜⬜ Learning |
-| Terraform | 🟩🟩⬜⬜ Learning |
-| Linux | 🟩🟩🟩⬜ Intermediate |
 
 **ML / MLOps**
 | Skill | Proficiency |
