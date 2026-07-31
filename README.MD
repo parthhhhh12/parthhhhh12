@@ -1,4 +1,4 @@
- <!-- Profile README for Parth -->
+<!-- Profile README for Parth -->
 
 <h1 align="center">
   <img
@@ -9,11 +9,6 @@
 
 <p align="center">
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="50" height="50" alt="waving hand"/>
-</p>
-
-<p align="center">
-  <a href="https://parth-12-05-03.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/singh05e/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -111,13 +106,12 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 ### DevOps & Infrastructure
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,docker,kubernetes,terraform,jenkins,linux,git,github&perline=8&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,docker,kubernetes,terraform,jenkins,linux,git,github,gitlab&perline=8&theme=dark" />
 </p>
 
 ### 🧠 AI / GenAI Stack
 <p align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-4A90E2?style=for-the-badge&logo=databricks&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
