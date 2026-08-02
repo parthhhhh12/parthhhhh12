@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm currently a **Data Engineer at Nagarro**. I'm a **Data and AI Engineer / DataOps Engineer** with hands-on experience building **scalable data pipelines** and integrating **machine learning / MLOps** practices into data workflows, working with **Azure Synapse, Snowflake, dbt, and Apache Airflow**.
+I'm a **Data and AI Engineer / DataOps Engineer** with hands-on experience building **scalable data pipelines** and integrating **machine learning / MLOps** practices into data workflows, working with **Azure Synapse, Snowflake, dbt, and Apache Airflow**.
 
 I'm skilled across the modern data stack and cloud platforms, with growing expertise in **Generative AI** — RAG, Vector Databases, and LLM workflows. I care about clean data layers, schema enforcement, and analytics-ready outputs.
 
