@@ -1,24 +1,36 @@
 <!-- Profile README for Parth -->
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&lines=Hi+there+👋,+I'm+Parth!;Data+Engineer+%7C+1%2B+Year+Experience;Cloud+%7C+Big+Data+%7C+DataOps;Building+Reliable%2C+Production-Grade+Pipelines"
-    alt="Typing SVG"
-  />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="50" height="50" alt="waving hand"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:3DDC84&height=220&section=header&text=Parth%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%201%2B%20Year%20Experience&descAlignY=58&descAlign=50"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthhhhh12&label=Profile%20Views&color=3DDC84&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Data%20Engineer-1%2B%20Year%20Experience-3DDC84?style=flat&logo=databricks&logoColor=white" alt="experience badge"/>
-</p>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&lines=Building+Cloud-Native+Data+Platforms+%E2%98%81%EF%B8%8F;Azure+%7C+Databricks+%7C+Snowflake;ETL%2FELT+Pipelines+that+Scale+%E2%9A%A1;Data+that+Doesn't+Just+Move+%E2%80%94+It+Thinks+%F0%9F%A7%A0"
+  alt="Typing SVG"
+/>
+
+<br/>
+
+<a href="https://parth-12-05-03.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/singh05e/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:parthsingh1253@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/parthhhhh12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=parthhhhh12&label=Profile%20Views&color=3DDC84&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/Based%20in-Gurugram%2C%20India-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Data%20Engineering%20Roles-3DDC84?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ---
 
 ## 🚀 About Me
+
+<img align="right" width="400" src="https://raw.githubusercontent.com/aayushiiitm/aayushiiitm/master/dat.gif"/>
 
 I'm a **Data Engineer with 1+ year of experience** building **cloud-native, scalable data platforms** on **Microsoft Azure, Databricks, and Snowflake**.
 
@@ -36,6 +48,8 @@ I'm also expanding my skill set into **Machine Learning, MLOps, and Generative A
 - ✅ Quality-first engineering — schema enforcement, RAW/CLEAN/ERROR layering, reconciliation, reproducible pipeline design
 - 🧠 Actively learning and integrating ML, MLOps, and GenAI concepts (RAG, vector DBs, LLM workflows) into the data stack
 
+<br clear="right"/>
+
 ---
 
 ## 🎓 Education
@@ -48,44 +62,41 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 ## 🛠️ Skills & Proficiency
 
-**Core**
-| Skill | Proficiency |
-|---|---|
-| SQL | 🟩🟩🟩🟩 Advanced |
-| Python | 🟩🟩🟩⬜ Intermediate |
-| Java | 🟩🟩🟩⬜ Intermediate |
+<div align="center">
 
-**Data Engineering**
-| Skill | Proficiency |
-|---|---|
-| Snowflake | 🟩🟩🟩⬜ Intermediate |
-| dbt | 🟩🟩🟩⬜ Intermediate |
-| Databricks | 🟩🟩🟩⬜ Intermediate |
-| PySpark | 🟩🟩🟩⬜ Intermediate |
-| Apache Airflow | 🟩🟩🟩⬜ Intermediate |
-| Delta Lake | 🟩🟩🟩⬜ Intermediate |
+**🧮 Core**
 
-**Cloud**
-| Skill | Proficiency |
-|---|---|
-| Microsoft Azure (Synapse, ADF, ADLS, Blob) | 🟩🟩🟩⬜ Intermediate |
-| AWS (EC2, S3) | 🟩🟩🟩⬜ Intermediate |
+![SQL](https://progress-bar.xyz/90/?title=SQL&width=280&color=3DDC84&suffix=%20)
+![Python](https://progress-bar.xyz/70/?title=Python&width=280&color=3DDC84&suffix=%20)
+![Java](https://progress-bar.xyz/60/?title=Java&width=280&color=3DDC84&suffix=%20)
 
-**DevOps**
-| Skill | Proficiency |
-|---|---|
-| Docker | 🟩🟩🟩⬜ Intermediate |
-| Jenkins | 🟩🟩🟩⬜ Intermediate |
-| Git / GitHub | 🟩🟩🟩⬜ Intermediate |
-| GitLab | 🟩🟩🟩⬜ Intermediate |
-| Linux | 🟩🟩⬜⬜ Intermediate |
-| Kubernetes | 🟩🟩⬜⬜ Learning |
+**📦 Data Engineering**
 
-**Exploring — ML / MLOps / GenAI**
-| Area | Status |
-|---|---|
-| MLflow | 🟩🟩🟩⬜ Intermediate |
-| RAG, Vector DBs, LLM Workflows | 🟩⬜⬜⬜ Learning & Integrating |
+![Snowflake](https://progress-bar.xyz/70/?title=Snowflake&width=280&color=1F6FEB&suffix=%20)
+![dbt](https://progress-bar.xyz/70/?title=dbt&width=280&color=1F6FEB&suffix=%20)
+![Databricks](https://progress-bar.xyz/70/?title=Databricks&width=280&color=1F6FEB&suffix=%20)
+![PySpark](https://progress-bar.xyz/70/?title=PySpark&width=280&color=1F6FEB&suffix=%20)
+![Airflow](https://progress-bar.xyz/70/?title=Apache+Airflow&width=280&color=1F6FEB&suffix=%20)
+![Delta Lake](https://progress-bar.xyz/65/?title=Delta+Lake&width=280&color=1F6FEB&suffix=%20)
+
+**☁️ Cloud**
+
+![Azure](https://progress-bar.xyz/70/?title=Microsoft+Azure&width=280&color=0078D4&suffix=%20)
+![AWS](https://progress-bar.xyz/60/?title=AWS&width=280&color=0078D4&suffix=%20)
+
+**⚙️ DevOps**
+
+![Docker](https://progress-bar.xyz/65/?title=Docker&width=280&color=FF9A00&suffix=%20)
+![Jenkins](https://progress-bar.xyz/60/?title=Jenkins&width=280&color=FF9A00&suffix=%20)
+![Git](https://progress-bar.xyz/75/?title=Git+%2F+GitHub&width=280&color=FF9A00&suffix=%20)
+![Kubernetes](https://progress-bar.xyz/40/?title=Kubernetes&width=280&color=FF9A00&suffix=%20)
+
+**🧠 Exploring — ML / MLOps / GenAI**
+
+![MLflow](https://progress-bar.xyz/60/?title=MLflow&width=280&color=FF6B6B&suffix=%20)
+![RAG](https://progress-bar.xyz/30/?title=RAG+%2F+Vector+DBs+%2F+LLMs&width=280&color=FF6B6B&suffix=%20)
+
+</div>
 
 ---
 
@@ -192,8 +203,8 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 ## 📈 GitHub Analytics & Activity Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
 <p align="center">
@@ -209,7 +220,27 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=parthhhhh12&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parthhhhh12/parthhhhh12/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+</p>
+
+<p align="center"><sub>⚙️ Animated by a scheduled GitHub Action — see setup note at the bottom of this file.</sub></p>
+
+---
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🌐 Connect With Me
 
@@ -228,6 +259,15 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
   </a>
 </p>
 
----
+<div align="center">
+  <i>✨ "Not just moving data — building the pipelines that make it trustworthy." ✨</i>
+</div>
 
-<p align="center">✨ <i>"Not just moving data — building the pipelines that make it trustworthy."</i> ✨</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:1F6FEB,100:0D1117&height=150&section=footer"/>
+
+<!--
+  📌 Optional setup for the "Contribution Snake" above:
+  1. Create .github/workflows/snake.yml in this repo with the platane/snk action.
+  2. It generates github-contribution-grid-snake-dark.svg on an "output" branch automatically.
+  3. Ask me for the ready-made snake.yml workflow file if you'd like it added.
+-->
