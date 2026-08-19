@@ -25,11 +25,7 @@
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/aayushiiitm/aayushiiitm/master/dat.gif"/>
 
-I'm a **Data Engineer with 1+ year of experience**, specializing in **cloud-native, scalable data platforms** on **Microsoft Azure, Databricks, and Snowflake**.
-
-I build **ETL/ELT pipelines** that are reliable, high-performance, and production-grade — using **Python, PySpark, SQL, dbt, and Apache Airflow** to turn raw data into clean, analytics-ready datasets.
-
-I'm also learning, exploring, and integrating **Machine Learning, MLOps, and Generative AI** — including **RAG pipelines, vector databases, and prompt engineering** — into my core data engineering practice.
+I'm a **Data Engineer with 1+ year of experience**, specializing in **cloud-native, scalable data platforms** on **Microsoft Azure, Databricks, and Snowflake**. I build **ETL/ELT pipelines** that are reliable, high-performance, and production-grade — using **Python, PySpark, SQL, dbt, and Apache Airflow** to turn raw data into clean, analytics-ready datasets. I'm also learning, exploring, and integrating **Machine Learning, MLOps, and Generative AI** — including **RAG pipelines, vector databases, and prompt engineering** — into my core data engineering practice.
 
 **💡 Core strengths:**
 - ⚡ End-to-end ETL/ELT pipeline design and development
@@ -195,7 +191,7 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 ## 📈 GitHub Analytics & Activity Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
