@@ -23,17 +23,13 @@
 
 ## 🚀 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/aayushiiitm/aayushiiitm/master/dat.gif"/>
-
-I'm a **Data Engineer with 1+ year of experience**, specializing in **cloud-native, scalable data platforms** on **Microsoft Azure, Databricks, and Snowflake**. I build **ETL/ELT pipelines** that are reliable, high-performance, and production-grade — using **Python, PySpark, SQL, dbt, and Apache Airflow** to turn raw data into clean, analytics-ready datasets. I'm also learning, exploring, and integrating **Machine Learning, MLOps, and Generative AI** — including **RAG pipelines, vector databases, and prompt engineering** — into my core data engineering practice.
+I'm a **Data Engineer with 1+ year of experience**, specializing in **cloud‑native, scalable data platforms** on **Microsoft Azure, Databricks, and Snowflake**. I build **ETL/ELT pipelines** that are reliable, high‑performance, and production‑grade — using **Python, PySpark, SQL, dbt, and Apache Airflow** to turn raw data into clean, analytics‑ready datasets. I'm also learning, exploring, and integrating **Machine Learning, MLOps, and Generative AI** — including **RAG pipelines, vector databases, and prompt engineering** — into my core data engineering practice.
 
 **💡 Core strengths:**
 - ⚡ End-to-end ETL/ELT pipeline design and development
 - 🧮 Strong SQL & data modeling — schema design, partitioning, performance tuning
 - ☁️ Cloud-native stack — Azure (ADF/Synapse/ADLS) + Databricks + Snowflake + dbt
 - ✅ Quality-first engineering — schema enforcement, RAW/CLEAN/ERROR layering, reconciliation
-
-<br clear="right"/>
 
 ---
 
