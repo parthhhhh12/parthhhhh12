@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&lines=Hi+there+👋,+I'm+Parth!;Data+and+AI+Engineer;DataOps+Engineer;Cloud+%7C+Big+Data+%7C+GenAI+Explorer;Building+End-to-End+Data+%26+AI+Pipelines"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&lines=Hi+there+👋,+I'm+Parth!;Data+Engineer+%7C+1%2B+Year+Experience;Cloud+%7C+Big+Data+%7C+DataOps;Building+Reliable%2C+Production-Grade+Pipelines"
     alt="Typing SVG"
   />
 </h1>
@@ -11,25 +11,30 @@
   <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="50" height="50" alt="waving hand"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthhhhh12&label=Profile%20Views&color=3DDC84&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Data%20Engineer-1%2B%20Year%20Experience-3DDC84?style=flat&logo=databricks&logoColor=white" alt="experience badge"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I'm a **Data and AI Engineer / DataOps Engineer** with hands-on experience building **scalable data pipelines** and integrating **machine learning / MLOps** practices into data workflows, working with **Azure Synapse, Snowflake, dbt, and Apache Airflow**.
+I'm a **Data Engineer with 1+ year of experience** building **cloud-native, scalable data platforms** on **Microsoft Azure, Databricks, and Snowflake**.
 
-I'm skilled across the modern data stack and cloud platforms, with growing expertise in **Generative AI** — RAG, Vector Databases, and LLM workflows. I care about clean data layers, schema enforcement, and analytics-ready outputs.
+My day-to-day work is designing and building **ETL/ELT pipelines** that are reliable, high-performance, and production-grade — using **Python, PySpark, SQL, dbt, and Apache Airflow** to turn raw, messy data into clean, analytics-ready datasets that businesses can actually act on.
 
-> ☁️ Cloud + ⚙️ DevOps + 📦 Data Engineering + 🤖 ML/MLOps + 🧠 LLMs + 🔍 RAG + 🗄️ Vector DBs
+I'm also expanding my skill set into **Machine Learning, MLOps, and Generative AI** — currently learning and exploring **RAG pipelines, vector databases, and prompt engineering** as an extension of my core data engineering foundation.
 
-**The goal:** build end-to-end Data & AI pipelines — from raw ingestion to intelligent, model-ready output.
+> ☁️ Cloud Platforms &nbsp;•&nbsp; ⚙️ ETL/ELT Pipelines &nbsp;•&nbsp; 📦 Data Modeling &nbsp;•&nbsp; 🔄 Orchestration &nbsp;•&nbsp; 🧭 DevOps &nbsp;•&nbsp; 🧠 Exploring ML/GenAI
 
-💡 **What I bring:**
-- ⚡ End-to-end pipeline development: ingestion → transformation → curated datasets → analytics + ML outputs
-- 🧮 Strong SQL & data modeling mindset — schema design, partitioning, format choices, performance
-- ☁️ Cloud-native stack: Azure (ADF/ADLS/Blob) + Databricks + Snowflake + dbt + MLflow
-- 🤖 ML integration: feature engineering pipelines, model deployment on Databricks, experiment tracking
-- 🧠 GenAI exploration: LLM workflows, RAG pipelines, and prompt engineering
-- ✅ Quality-first: schema enforcement, RAW/CLEAN/ERROR layering, reproducible & orchestration-ready design
+**💡 What I bring:**
+- ⚡ End-to-end pipeline development — ingestion → transformation → curated, analytics-ready datasets
+- 🧮 Strong SQL & data modeling mindset — schema design, partitioning, format choices, performance tuning
+- ☁️ Cloud-native stack — Azure (ADF / Synapse / ADLS / Blob) + Databricks + Snowflake + dbt
+- 🔄 Workflow orchestration with Apache Airflow and Azure Synapse Pipelines
+- ✅ Quality-first engineering — schema enforcement, RAW/CLEAN/ERROR layering, reconciliation, reproducible pipeline design
+- 🧠 Actively learning and integrating ML, MLOps, and GenAI concepts (RAG, vector DBs, LLM workflows) into the data stack
 
 ---
 
@@ -76,25 +81,17 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 | Linux | 🟩🟩⬜⬜ Intermediate |
 | Kubernetes | 🟩🟩⬜⬜ Learning |
 
-**ML / MLOps**
-| Skill | Proficiency |
+**Exploring — ML / MLOps / GenAI**
+| Area | Status |
 |---|---|
 | MLflow | 🟩🟩🟩⬜ Intermediate |
-| MLOps | 🟩🟩⬜⬜ Learning |
-
-**GenAI**
-| Skill | Proficiency |
-|---|---|
-| Generative AI (LLMs, RAG, Prompt Eng.) | 🟩⬜⬜⬜ Exploring |
-| Vector Databases | 🟩⬜⬜⬜ Exploring |
-| AI Agents | 🟩⬜⬜⬜ Exploring |
+| RAG, Vector DBs, LLM Workflows | 🟩⬜⬜⬜ Learning & Integrating |
 
 ---
 
 ## 💬 Ask Me About
 
-`Python` · `SQL` · `PySpark` · `Big Data` · `RAG` · `Vector DBs` · `LLMs` · `GenAI`
-· `Machine Learning` · `MLOps` · `Databricks` · `Snowflake` · `dbt` · `Cloud & DevOps`
+`Python` · `SQL` · `PySpark` · `Big Data` · `Databricks` · `Snowflake` · `dbt` · `Apache Airflow` · `Cloud & DevOps` · `Data Modeling`
 
 📫 Reach me at: [**parthsingh1253@gmail.com**](mailto:parthsingh1253@gmail.com)
 📍 Based in Gurugram, Haryana, India
@@ -113,13 +110,12 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
   <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,docker,kubernetes,terraform,jenkins,linux,git,github,gitlab&perline=8&theme=dark" />
 </p>
 
-### 🧠 AI / GenAI Stack
+### 🧠 Currently Exploring
 <p align="center">
 
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-4A90E2?style=for-the-badge&logo=databricks&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-00BFFF?style=for-the-badge&logo=probot&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM%20Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF9A00?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </p>
@@ -145,7 +141,7 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### 🏗️ End-to-End Data Engineering Pipeline — Azure Synapse + Snowflake + dbt
 🔗 [GitHub Repo](https://github.com/parthhhhh12/-end-to-end-data-engineering-azure-synapse-snowflake.git)
@@ -234,4 +230,4 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 ---
 
-<p align="center">✨ <i>"Not just moving data — making it intelligent."</i> ✨</p>
+<p align="center">✨ <i>"Not just moving data — building the pipelines that make it trustworthy."</i> ✨</p>
