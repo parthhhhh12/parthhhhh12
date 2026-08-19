@@ -2,19 +2,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:3DDC84&height=220&section=header&text=Parth%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%201%2B%20Year%20Experience&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:3DDC84&height=220&section=header&text=Parth&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%201%2B%20Year%20Experience&descAlignY=58&descAlign=50"/>
 
 <img
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&lines=Building+Cloud-Native+Data+Platforms+%E2%98%81%EF%B8%8F;Azure+%7C+Databricks+%7C+Snowflake;ETL%2FELT+Pipelines+that+Scale+%E2%9A%A1;Data+that+Doesn't+Just+Move+%E2%80%94+It+Thinks+%F0%9F%A7%A0"
   alt="Typing SVG"
 />
-
-<br/>
-
-<a href="https://parth-12-05-03.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/singh05e/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:parthsingh1253@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/parthhhhh12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -30,23 +23,19 @@
 
 ## 🚀 About Me
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/aayushiiitm/aayushiiitm/master/dat.gif"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/aayushiiitm/aayushiiitm/master/dat.gif"/>
 
-I'm a **Data Engineer with 1+ year of experience** building **cloud-native, scalable data platforms** on **Microsoft Azure, Databricks, and Snowflake**.
+I'm a **Data Engineer with 1+ year of experience**, specializing in **cloud-native, scalable data platforms** on **Microsoft Azure, Databricks, and Snowflake**.
 
-My day-to-day work is designing and building **ETL/ELT pipelines** that are reliable, high-performance, and production-grade — using **Python, PySpark, SQL, dbt, and Apache Airflow** to turn raw, messy data into clean, analytics-ready datasets that businesses can actually act on.
+I build **ETL/ELT pipelines** that are reliable, high-performance, and production-grade — using **Python, PySpark, SQL, dbt, and Apache Airflow** to turn raw data into clean, analytics-ready datasets.
 
-I'm also expanding my skill set into **Machine Learning, MLOps, and Generative AI** — currently learning and exploring **RAG pipelines, vector databases, and prompt engineering** as an extension of my core data engineering foundation.
+I'm also learning, exploring, and integrating **Machine Learning, MLOps, and Generative AI** — including **RAG pipelines, vector databases, and prompt engineering** — into my core data engineering practice.
 
-> ☁️ Cloud Platforms &nbsp;•&nbsp; ⚙️ ETL/ELT Pipelines &nbsp;•&nbsp; 📦 Data Modeling &nbsp;•&nbsp; 🔄 Orchestration &nbsp;•&nbsp; 🧭 DevOps &nbsp;•&nbsp; 🧠 Exploring ML/GenAI
-
-**💡 What I bring:**
-- ⚡ End-to-end pipeline development — ingestion → transformation → curated, analytics-ready datasets
-- 🧮 Strong SQL & data modeling mindset — schema design, partitioning, format choices, performance tuning
-- ☁️ Cloud-native stack — Azure (ADF / Synapse / ADLS / Blob) + Databricks + Snowflake + dbt
-- 🔄 Workflow orchestration with Apache Airflow and Azure Synapse Pipelines
-- ✅ Quality-first engineering — schema enforcement, RAW/CLEAN/ERROR layering, reconciliation, reproducible pipeline design
-- 🧠 Actively learning and integrating ML, MLOps, and GenAI concepts (RAG, vector DBs, LLM workflows) into the data stack
+**💡 Core strengths:**
+- ⚡ End-to-end ETL/ELT pipeline design and development
+- 🧮 Strong SQL & data modeling — schema design, partitioning, performance tuning
+- ☁️ Cloud-native stack — Azure (ADF/Synapse/ADLS) + Databricks + Snowflake + dbt
+- ✅ Quality-first engineering — schema enforcement, RAW/CLEAN/ERROR layering, reconciliation
 
 <br clear="right"/>
 
@@ -62,41 +51,44 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 ## 🛠️ Skills & Proficiency
 
-<div align="center">
+**Core**
+| Skill | Proficiency |
+|---|---|
+| SQL | 🟩🟩🟩🟩 Advanced |
+| Python | 🟩🟩🟩⬜ Intermediate |
+| Java | 🟩🟩🟩⬜ Intermediate |
 
-**🧮 Core**
+**Data Engineering**
+| Skill | Proficiency |
+|---|---|
+| Snowflake | 🟩🟩🟩⬜ Intermediate |
+| dbt | 🟩🟩🟩⬜ Intermediate |
+| Databricks | 🟩🟩🟩⬜ Intermediate |
+| PySpark | 🟩🟩🟩⬜ Intermediate |
+| Apache Airflow | 🟩🟩🟩⬜ Intermediate |
+| Delta Lake | 🟩🟩🟩⬜ Intermediate |
 
-![SQL](https://progress-bar.xyz/90/?title=SQL&width=280&color=3DDC84&suffix=%20)
-![Python](https://progress-bar.xyz/70/?title=Python&width=280&color=3DDC84&suffix=%20)
-![Java](https://progress-bar.xyz/60/?title=Java&width=280&color=3DDC84&suffix=%20)
+**Cloud**
+| Skill | Proficiency |
+|---|---|
+| Microsoft Azure (Synapse, ADF, ADLS, Blob) | 🟩🟩🟩⬜ Intermediate |
+| AWS (EC2, S3) | 🟩🟩🟩⬜ Intermediate |
 
-**📦 Data Engineering**
+**DevOps**
+| Skill | Proficiency |
+|---|---|
+| Docker | 🟩🟩🟩⬜ Intermediate |
+| Jenkins | 🟩🟩🟩⬜ Intermediate |
+| Git / GitHub | 🟩🟩🟩⬜ Intermediate |
+| GitLab | 🟩🟩🟩⬜ Intermediate |
+| Linux | 🟩🟩⬜⬜ Intermediate |
+| Kubernetes | 🟩🟩⬜⬜ Learning |
 
-![Snowflake](https://progress-bar.xyz/70/?title=Snowflake&width=280&color=1F6FEB&suffix=%20)
-![dbt](https://progress-bar.xyz/70/?title=dbt&width=280&color=1F6FEB&suffix=%20)
-![Databricks](https://progress-bar.xyz/70/?title=Databricks&width=280&color=1F6FEB&suffix=%20)
-![PySpark](https://progress-bar.xyz/70/?title=PySpark&width=280&color=1F6FEB&suffix=%20)
-![Airflow](https://progress-bar.xyz/70/?title=Apache+Airflow&width=280&color=1F6FEB&suffix=%20)
-![Delta Lake](https://progress-bar.xyz/65/?title=Delta+Lake&width=280&color=1F6FEB&suffix=%20)
-
-**☁️ Cloud**
-
-![Azure](https://progress-bar.xyz/70/?title=Microsoft+Azure&width=280&color=0078D4&suffix=%20)
-![AWS](https://progress-bar.xyz/60/?title=AWS&width=280&color=0078D4&suffix=%20)
-
-**⚙️ DevOps**
-
-![Docker](https://progress-bar.xyz/65/?title=Docker&width=280&color=FF9A00&suffix=%20)
-![Jenkins](https://progress-bar.xyz/60/?title=Jenkins&width=280&color=FF9A00&suffix=%20)
-![Git](https://progress-bar.xyz/75/?title=Git+%2F+GitHub&width=280&color=FF9A00&suffix=%20)
-![Kubernetes](https://progress-bar.xyz/40/?title=Kubernetes&width=280&color=FF9A00&suffix=%20)
-
-**🧠 Exploring — ML / MLOps / GenAI**
-
-![MLflow](https://progress-bar.xyz/60/?title=MLflow&width=280&color=FF6B6B&suffix=%20)
-![RAG](https://progress-bar.xyz/30/?title=RAG+%2F+Vector+DBs+%2F+LLMs&width=280&color=FF6B6B&suffix=%20)
-
-</div>
+**Exploring — ML / MLOps / GenAI**
+| Area | Status |
+|---|---|
+| MLflow | 🟩🟩🟩⬜ Intermediate |
+| RAG, Vector DBs, LLM Workflows | 🟩⬜⬜⬜ Learning & Integrating |
 
 ---
 
@@ -219,14 +211,6 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&theme=tokyo-night&hide_border=true"/>
 </p>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=parthhhhh12&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
 
 ---
 
