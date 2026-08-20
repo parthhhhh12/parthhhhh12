@@ -184,24 +184,15 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 ---
 
-## 📈 GitHub Analytics & Activity Insights
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthhhhh12&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthhhhh12&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthhhhh12&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&theme=tokyo-night&hide_border=true&height=250" width="90%"/>
 </p>
 
 ---
