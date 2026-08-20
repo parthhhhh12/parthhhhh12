@@ -195,13 +195,28 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&hide_border=true&background=0D1117&stroke=1F6FEB&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
-<br/>
+<br/><br/>
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthhhhh12&theme=github_dark"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthhhhh12&theme=github_dark"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthhhhh12&theme=github_dark&utcOffset=5.5" width="60%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&bg_color=0D1117&color=3DDC84&line=1F6FEB&point=ffffff&area=true&area_color=1F6FEB&hide_border=true&height=300" width="92%"/>
 
 </div>
 
-<p align="center"><sub>📊 Live stats — updates automatically as commits and streaks grow</sub></p>
+<p align="center"><sub>📊 Live stats — updates automatically as commits, languages, and streaks grow</sub></p>
 
 ---
 
