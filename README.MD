@@ -189,26 +189,11 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=1F6FEB&text_color=c9d1d9&border_radius=12" height="165px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhhhh12&layout=compact&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9&border_radius=12&langs_count=8" height="165px"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&hide_border=true&background=0D1117&stroke=1F6FEB&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&hide_border=true&background=0D1117&stroke=1F6FEB&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165px"/>
 
 <br/><br/>
 
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthhhhh12&theme=github_dark"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthhhhh12&theme=github_dark"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthhhhh12&theme=github_dark&utcOffset=5.5" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhhhh12&layout=pie&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9&border_radius=12&langs_count=8" width="55%"/>
 
 <br/><br/>
 
