@@ -184,15 +184,24 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parthhhhh12&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=1F6FEB&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhhhh12&theme=dark&hide_border=true&background=0D1117&ring=3DDC84&fire=1F6FEB&currStreakLabel=3DDC84" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhhhh12&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9&langs_count=8" width="48%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&bg_color=0D1117&color=3DDC84&line=1F6FEB&point=ffffff&area=true&area_color=1F6FEB&hide_border=true&height=300" width="92%"/>
 
 </div>
 
-<p align="center"><sub>📊 Live stats — updates automatically as commits grow</sub></p>
+<p align="center"><sub>📊 Stats update live — total commits, current streak, and this year's contribution activity are pulled straight from GitHub on every page load.</sub></p>
 
 ---
 
