@@ -201,14 +201,6 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthhhhh12&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
