@@ -192,9 +192,7 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 <img src="https://streak-stats.demolab.com?user=parthhhhh12&theme=dark&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84" width="49%"/>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhhhh12&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9&langs_count=8" width="49%"/>
-
+ 
 </div>
 
 <p align="center"><sub>📊 Stats update live — pulled straight from GitHub on every page load.</sub></p>
