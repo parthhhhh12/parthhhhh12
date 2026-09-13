@@ -190,13 +190,7 @@ University of Petroleum and Energy Studies, Dehradun · *Specialization: Cloud C
 
 <img src="https://github-stats-extended.vercel.app/api?username=parthhhhh12&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=1F6FEB&text_color=c9d1d9" width="60%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthhhhh12&bg_color=0D1117&color=3DDC84&line=1F6FEB&point=ffffff&area=true&area_color=1F6FEB&hide_border=true&height=300" width="92%"/>
-
 </div>
-
-<p align="center"><sub>📊 Stats update live — total commits and this year's contribution activity are pulled straight from GitHub on every page load.</sub></p>
 
 ---
 
